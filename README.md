@@ -1,1 +1,5 @@
-# 6th_T-barin_AI_Competition
+# 6th T-barin AI Competition
+
+* Team : Yi
+* Rank: 81 / 1330 (6%)
+* Method: lightgbm, xgboost, catboost, gbm, lasso, blending
